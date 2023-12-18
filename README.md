@@ -1,3 +1,3 @@
 # python
 learning python
-auther: darshan
+auther: darshan KB
